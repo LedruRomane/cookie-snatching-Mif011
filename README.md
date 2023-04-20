@@ -50,7 +50,7 @@ Vidéo de vulgarisation -> [Youtube - Vol de cookie](https://youtu.be/OTTXwD58Is
 
 Crédits repository projet -> [Github - asrrocks](https://github.com/asrrocks/PHP-BLOG)
 
-Crédits : 
+## Crédits 
 
 Professeurs encadrants : 
 
