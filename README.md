@@ -49,3 +49,15 @@ Lien vers -> [Google Doc - script de la vidéo de vulgarisation](https://docs.go
 Vidéo de vulgarisation -> [Youtube - Vol de cookie](https://youtu.be/OTTXwD58IsQ)
 
 Crédits repository projet -> [Github - asrrocks](https://github.com/asrrocks/PHP-BLOG)
+
+Crédits : 
+
+Professeurs encadrants : 
+
+- Thomas Begin
+- Jean-Patrick Gelas
+
+Etudiants :
+
+- Romane Ledru
+- Roméo Phang
